@@ -1,2 +1,7 @@
 Dong thu nhat may tinh mot
+<<<<<<< HEAD
 Dong thu ba may tinh mot
+=======
+Dong thu hai may tinh mot
+dong thu ba may tinh hai
+>>>>>>> 4aec849e7a370eb933cfff6299a1a3bc2f101338
