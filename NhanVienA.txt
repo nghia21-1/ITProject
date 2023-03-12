@@ -5,3 +5,5 @@ thay doi
 dung Git Gui Here
 
 sua file
+
+thay doi noi dung tu nhanh main
