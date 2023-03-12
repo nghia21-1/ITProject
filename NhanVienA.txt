@@ -6,6 +6,10 @@ dung Git Gui Here
 
 sua file
 
+<<<<<<< HEAD
 thay doi noi dung tu nhanh main
 
 hello baby
+=======
+them noi dung moi ben nhanh main
+>>>>>>> NhanVienC
